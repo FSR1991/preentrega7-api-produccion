@@ -150,7 +150,6 @@ def process_message(
             duration_seconds=duration_seconds,
         )
 
-        
 
         logger.info(
             "Tarea %s finalizada: estado=%s, tokens=%s/%s, "
