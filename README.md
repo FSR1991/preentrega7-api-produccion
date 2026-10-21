@@ -139,7 +139,7 @@ Los estados utilizados incluyen:
 - "PENDING": trabajo creado y encolado.
 - "RUNNING": trabajo en ejecución.
 - "WAITING_APPROVAL": el grafo está detenido esperando una decisión humana.
-- "APPROVAL_QUEUED": la decisión fue registrada y está pendiente de procesamiento.
+- "RESUME_QUEUED": la decisión fue registrada y está pendiente de procesamiento.
 - "DONE": trabajo completado.
 - "REJECTED": solicitud crítica rechazada.
 - "FAILED": fallo durante el procesamiento.
